@@ -1,0 +1,4 @@
+str(input("Enter event title: "))
+str(input("Enter year: "))
+str(input("Enter month: "))
+str(input("Enter day: "))
